@@ -4,17 +4,16 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        Poppins: ["Poppins", "sans-serif"],
+        sans: ["Darker Grotesque", "sans-serif"],
       },
 
       // Define custom colors
 
       colors: {
-        Gray: "#A9A2A2",
+        Gray: "#6F6565",
         Pale_lavender_pink: "#FACDFF",
         Medium_orchid_purple: "#B262BA",
       },
     },
   },
-  plugins: [],
 };
