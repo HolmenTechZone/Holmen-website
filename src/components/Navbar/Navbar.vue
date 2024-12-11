@@ -70,12 +70,12 @@
           <li
             class="block py-2 px-3 text-white bg-Gray rounded md:bg-transparent md:p-0 md:dark:text-Gray font-bold dark:hover:text-[#4E4545]"
           >
-            <router-link to="/projects font-bold">Projects</router-link>
+            <router-link to="/projects">Projects</router-link>
           </li>
           <li
             class="block py-2 px-3 text-white bg-Gray rounded md:bg-transparent md:p-0 md:dark:text-Gray font-bold dark:hover:text-[#4E4545]"
           >
-            <router-link to="/contact font-bold">Contact</router-link>
+            <router-link to="/contact">Contact</router-link>
           </li>
         </ul>
       </div>
