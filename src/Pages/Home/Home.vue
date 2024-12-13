@@ -34,6 +34,23 @@
             class="rounded-lg shadow-lg w-full"
           />
         </div>
+
+        <div class="py-10">
+          <div class="container mx-auto px-4">
+            <div
+              class="text-center lg:flex lg:justify-between lg:items-start lg:space-x-6"
+            >
+              <h2 class="text-3xl font-bold text-gray-800 mb-4 lg:mb-0 lg:text-4xl">
+                Let’s learn more <br> 
+                about our services.
+              </h2>
+              <p class="text-gray-600 max-w-md py-2">
+                We provide experienced technical and consulting services for
+                both large and mid-market companies across platforms.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
