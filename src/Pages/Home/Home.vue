@@ -10,7 +10,7 @@
           Business.
         </h1>
 
-        <p class="mt-4 text-gray-600 text-base sm:text-lg lg:text-xl">
+        <p class="mt-4 text-gray-600 text-base sm:text-lg lg:text-xl font-bold">
           Holmen Consulting partner with businesses to provide scalable
           enterprise solutions to meet the needs of our clients. Our solutions
           are delivered through a team of experienced, result-driven resources.
@@ -41,7 +41,7 @@
                 </h2>
               </div>
               <div class="md:text-center">
-                <p class="text-gray-600 max-w-md py-2">
+                <p class="text-gray-600 max-w-md py-2 font-bold">
                   We provide experienced technical and consulting services for
                   both large and mid-market companies across platforms.
                 </p>
