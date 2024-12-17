@@ -56,56 +56,73 @@
         <div class="py-10">
           <div class="container mx-auto px-4">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-              <div class="bg-yellow-50 p-8 rounded-lg text-center">
+              <div
+                class="bg-yellow-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 mx-auto">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                    class="w-10 h-10 mx-auto animate-bounce">
                     <path
                       d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
                       fill="#4B5563" />
                   </svg>
                 </div>
-                <h3 class="text-lg font-bold mb-2">Consulting</h3>
-                <p class="text-gray-600">We collaborate with you to discuss your project requirements and solutions.</p>
-                <button class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700">Get in Touch</button>
+                <h3 class="text-lg font-bold mb-2 animate-fadeIn">Consulting</h3>
+                <p class="text-gray-600 animate-fadeIn animate-delay-200">We collaborate with you to discuss your
+                  project requirements and solutions.</p>
+                <button
+                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  in Touch</button>
               </div>
-              <div class="bg-pink-50 p-8 rounded-lg text-center">
+              <div
+                class="bg-pink-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 mx-auto">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                    class="w-10 h-10 mx-auto animate-bounce">
                     <path
                       d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
                       fill="#4B5563" />
                   </svg>
                 </div>
-                <h3 class="text-lg font-bold mb-2">Management</h3>
-                <p class="text-gray-600">We assist you in defining and managing the tasks and timelines for your
-                  project.</p>
-                <button class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700">Get in Touch</button>
+                <h3 class="text-lg font-bold mb-2 animate-fadeIn">Management</h3>
+                <p class="text-gray-600 animate-fadeIn animate-delay-200">We assist you in defining and managing the
+                  tasks and timelines for your project.</p>
+                <button
+                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  in Touch</button>
               </div>
-              <div class="bg-gray-50 p-8 rounded-lg text-center">
+              <div
+                class="bg-gray-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 mx-auto">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                    class="w-10 h-10 mx-auto animate-bounce">
                     <path
                       d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
                       fill="#4B5563" />
                   </svg>
                 </div>
-                <h3 class="text-lg font-bold mb-2">Implementation</h3>
-                <p class="text-gray-600">We provide both functional and technical resources to aid you in implementing
-                  your solutions.</p>
-                <button class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700">Get in Touch</button>
+                <h3 class="text-lg font-bold mb-2 animate-fadeIn">Implementation</h3>
+                <p class="text-gray-600 animate-fadeIn animate-delay-200">We provide both functional and technical
+                  resources to aid you in implementing your solutions.</p>
+                <button
+                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  in Touch</button>
               </div>
-              <div class="bg-cyan-50 p-8 rounded-lg text-center">
+              <div
+                class="bg-cyan-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 mx-auto">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                    class="w-10 h-10 mx-auto animate-bounce">
                     <path
                       d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
                       fill="#4B5563" />
                   </svg>
                 </div>
-                <h3 class="text-lg font-bold mb-2">Advisory Services</h3>
-                <p class="text-gray-600">We also provide alternate financial engineering solutions to add your ideas to
-                  life.</p>
-                <button class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700">Get in Touch</button>
+                <h3 class="text-lg font-bold mb-2 animate-fadeIn">Advisory Services</h3>
+                <p class="text-gray-600 animate-fadeIn animate-delay-200">We also provide alternate financial
+                  engineering solutions to add your ideas to life.</p>
+                <button
+                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  in Touch</button>
               </div>
             </div>
           </div>
@@ -125,3 +142,48 @@ export default {
   },
 };
 </script>
+
+
+
+
+<style>
+@keyframes bounce {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-bounce {
+  animation: bounce 1s ease-in-out infinite;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.animate-delay-200 {
+  animation-delay: 0.2s;
+}
+
+.animate-delay-400 {
+  animation-delay: 0.4s;
+}
+</style>
