@@ -59,12 +59,10 @@
               <div
                 class="bg-yellow-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
-                    class="w-10 h-10 mx-auto animate-bounce">
-                    <path
-                      d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
-                      fill="#4B5563" />
-                  </svg>
+
+                  <img src="../../assets/Images/consulting.svg" alt="User Icon"
+                    className="w-10 h-10 mx-auto animate-bounce" />
+
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Consulting</h3>
                 <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We collaborate with you to discuss
@@ -77,12 +75,8 @@
               <div
                 class="bg-pink-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
-                    class="w-10 h-10 mx-auto animate-bounce">
-                    <path
-                      d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
-                      fill="#4B5563" />
-                  </svg>
+                  <img src="../../assets/Images/management.svg" alt="User Icon"
+                    className="w-10 h-10 mx-auto animate-bounce" />
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Management</h3>
                 <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We assist you in defining and
@@ -95,12 +89,8 @@
               <div
                 class="bg-gray-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
-                    class="w-10 h-10 mx-auto animate-bounce">
-                    <path
-                      d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
-                      fill="#4B5563" />
-                  </svg>
+                  <img src="../../assets/Images/implementation.svg" alt="User Icon"
+                    className="w-10 h-10 mx-auto animate-bounce" />
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Implementation</h3>
                 <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We provide both functional and
@@ -113,12 +103,8 @@
               <div
                 class="bg-cyan-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
                 <div class="mb-4">
-                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
-                    class="w-10 h-10 mx-auto animate-bounce">
-                    <path
-                      d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM15 9C15 10.66 13.66 12 12 12C10.34 12 9 10.66 9 9C9 7.34 10.34 6 12 6C13.66 6 15 7.34 15 9ZM6 17C6 14.67 9.67 13 12 13C14.33 13 18 14.67 18 17V18H6V17Z"
-                      fill="#4B5563" />
-                  </svg>
+                  <img src="../../assets/Images/Advisory_service.svg" alt="User Icon"
+                    className="w-10 h-10 mx-auto animate-bounce" />
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Advisory Services</h3>
                 <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We also provide alternate financial
