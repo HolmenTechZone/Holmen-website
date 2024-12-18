@@ -67,7 +67,8 @@
                   </svg>
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Consulting</h3>
-                <p class="text-gray-600 animate-fadeIn animate-delay-200">We collaborate with you to discuss your
+                <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We collaborate with you to discuss
+                  your
                   project requirements and solutions.</p>
                 <button
                   class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
@@ -84,7 +85,8 @@
                   </svg>
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Management</h3>
-                <p class="text-gray-600 animate-fadeIn animate-delay-200">We assist you in defining and managing the
+                <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We assist you in defining and
+                  managing the
                   tasks and timelines for your project.</p>
                 <button
                   class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
@@ -101,7 +103,8 @@
                   </svg>
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Implementation</h3>
-                <p class="text-gray-600 animate-fadeIn animate-delay-200">We provide both functional and technical
+                <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We provide both functional and
+                  technical
                   resources to aid you in implementing your solutions.</p>
                 <button
                   class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
@@ -118,7 +121,7 @@
                   </svg>
                 </div>
                 <h3 class="text-lg font-bold mb-2 animate-fadeIn">Advisory Services</h3>
-                <p class="text-gray-600 animate-fadeIn animate-delay-200">We also provide alternate financial
+                <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We also provide alternate financial
                   engineering solutions to add your ideas to life.</p>
                 <button
                   class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
@@ -127,6 +130,15 @@
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
+
+
 
       </div>
     </div>
