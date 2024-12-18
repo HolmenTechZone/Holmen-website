@@ -97,7 +97,7 @@
                   technical
                   resources to aid you in implementing your solutions.</p>
                 <button
-                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  class="mt-4 px-4 py-2 bg-gray-50 text-[#6980E3] rounded-md hover:bg-[#6a85ff] hover:text-white animate-fadeIn animate-delay-400 font-extrabold">Get
                   in Touch</button>
               </div>
               <div
@@ -110,7 +110,7 @@
                 <p class="text-gray-600 animate-fadeIn animate-delay-200 font-bold">We also provide alternate financial
                   engineering solutions to add your ideas to life.</p>
                 <button
-                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  class="mt-4 px-4 py-2 bg-cyan-50 text-[#3E94B5] font-extrabold rounded-md hover:bg-[#11323f] hover:text-white animate-fadeIn animate-delay-400">Get
                   in Touch</button>
               </div>
             </div>
