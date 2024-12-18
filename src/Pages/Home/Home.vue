@@ -69,8 +69,8 @@
                   your
                   project requirements and solutions.</p>
                 <button
-                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
-                  in Touch</button>
+                  class="mt-4 px-4 py-2 bg-yellow-50 text-[#9C883C] font-extrabold rounded-md hover:bg-[#5e532d] hover:text-white animate-fadeIn animate-delay-400">Get
+                  in Touch</button>-
               </div>
               <div
                 class="bg-pink-50 p-8 rounded-lg text-center transition duration-300 ease-in-out transform hover:scale-105">
@@ -83,7 +83,7 @@
                   managing the
                   tasks and timelines for your project.</p>
                 <button
-                  class="mt-4 px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 animate-fadeIn animate-delay-400">Get
+                  class="mt-4 px-4 py-2 bg-pink-50 text-[#717171] rounded-md hover:bg-[#8a608f]  hover:text-white animate-fadeIn animate-delay-400 font-extrabold">Get
                   in Touch</button>
               </div>
               <div
