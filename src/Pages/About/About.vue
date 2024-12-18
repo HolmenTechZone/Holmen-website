@@ -27,6 +27,127 @@
         </div>
 
 
+
+
+
+
+        <div class="py-15 px-6 bg-[#FDEEFF]">
+            <h2 class="text-5xl font-bold text-center mb-8">What we believe</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Digital Transformation -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
+                            class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Digital Transformation</h3>
+                    <p class="text-gray-600">
+                        Modernizing IT Infrastructure and System. Enhancing Customer Experience with AI and Machine
+                        Learning. Optimizing Operations through Automation.
+                    </p>
+                </div>
+
+                <!-- Target Market -->
+                <div class=" flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg
+                    hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Target Market</h3>
+                    <p class="text-gray-600">
+                        Companies or Institutions in Transition. 
+                        Fast growing Entities or Large Corporate Groups.
+                        Start ups.
+                    </p>
+                </div>
+
+                <!-- Improved Management Focus -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Improved_Management_Focus.svg" alt="Improved Management Focus"
+                            class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Improved Management Focus</h3>
+                    <p class="text-gray-600">
+                        Delivering first-class professional service to Clients. Less bureaucracy and faster
+                        decision-making. Independence.
+                    </p>
+                </div>
+
+                <!-- Operating Model -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Operating Model</h3>
+                    <p class="text-gray-600">
+                        Management, sales, and delivery aligned at a local/market level. Privately held.
+                    </p>
+                </div>
+            </div>
+
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 pt-20">
+                <!-- Digital Transformation -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
+                            class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Digital Transformation</h3>
+                    <p class="text-gray-600">
+                        Modernizing IT Infrastructure and System. Enhancing Customer Experience with AI and Machine
+                        Learning. Optimizing Operations through Automation.
+                    </p>
+                </div>
+
+                <!-- Target Market -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Target Market</h3>
+                    <p class="text-gray-600">
+                        Companies or Institutions in Transition. Fast growing Entities or Large Corporate Groups.
+                        Start ups.
+                    </p>
+                </div>
+
+                <!-- Improved Management Focus -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Improved_Management_Focus.svg" alt="Improved Management Focus"
+                            class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Improved Management Focus</h3>
+                    <p class="text-gray-600">
+                        Delivering first-class professional service to Clients. Less bureaucracy and faster
+                        decision-making. Independence.
+                    </p>
+                </div>
+
+                <!-- Operating Model -->
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                    <div>
+                        <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">Operating Model</h3>
+                    <p class="text-gray-600">
+                        Management, sales, and delivery aligned at a local/market level. Privately held.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
     </div>
 </template>
 
