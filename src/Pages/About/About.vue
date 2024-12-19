@@ -32,7 +32,7 @@
 
 
         <div class="py-15 px-6 bg-[#FDEEFF]">
-            <h2 class="text-5xl font-bold text-center mb-8">What we believe</h2>
+            <h2 class="text-5xl font-bold text-center mb-10 pt-10">What we believe</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Digital Transformation -->
                 <div
