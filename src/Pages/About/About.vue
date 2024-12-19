@@ -41,7 +41,7 @@
                         <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-4">Digital Transformation</h3>
+                    <h3 class="text-[25px] font-bold mb-4">Digital Transformation</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -64,7 +64,7 @@
                     <div>
                         <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-4">Target Market</h3>
+                    <h3 class="text-[25px] font-bold mb-4">Target Market</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -88,7 +88,7 @@
                         <img src="../../assets/Images/improved Management Focus.svg" alt="Improved Management Focus"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-4">Improved Management Focus</h3>
+                    <h3 class="text-[25px] font-bold mb-4">Improved Management Focus</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -111,7 +111,7 @@
                     <div>
                         <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-4">Operating Model</h3>
+                    <h3 class="text-[25px] font-bold mb-4">Operating Model</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -138,7 +138,7 @@
                         <img src="../../assets/Images/award.svg" alt="Digital Transformation"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Focus on building strong customer relationships</h3>
+                    <h3 class="text-[25px] font-bold mb-2">Focus on building strong customer relationships</h3>
 
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
@@ -164,7 +164,7 @@
                     <div>
                         <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Commitment to employee personal and professional growth</h3>
+                    <h3 class="text-[25px] font-bold mb-2">Commitment to employee personal and professional growth</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -189,7 +189,7 @@
                         <img src="../../assets/Images/focus.svg" alt="Improved Management Focus"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2"> Better Customer Focus</h3>
+                    <h3 class="text-[25px] font-bold mb-2"> Better Customer Focus</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -208,7 +208,7 @@
                     <div>
                         <img src="../../assets/Images/user.svg" alt="Operating Model" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Excellence in management and leadership</h3>
+                    <h3 class="text-[25px] font-bold mb-2">Excellence in management and leadership</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
