@@ -41,39 +41,68 @@
                         <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Digital Transformation</h3>
-                    <p class="text-gray-600">
-                        Modernizing IT Infrastructure and System. Enhancing Customer Experience with AI and Machine
-                        Learning. Optimizing Operations through Automation.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-4">Digital Transformation</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Modernizing IT Infrastructure and System.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Enhancing Customer Experience with AI and Machine Learning.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Optimizing Operations through Automation.</span>
+                        </li>
+                    </ul>
                 </div>
 
                 <!-- Target Market -->
-                <div class=" flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg
-                    hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
+                <div
+                    class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
                         <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Target Market</h3>
-                    <p class="text-gray-600">
-                        Companies or Institutions in Transition. 
-                        Fast growing Entities or Large Corporate Groups.
-                        Start ups.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-4">Target Market</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Companies or Institutions in Transition.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Fast growing Entities or Large Corporate Groups.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Start ups.</span>
+                        </li>
+                    </ul>
                 </div>
 
                 <!-- Improved Management Focus -->
                 <div
                     class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
-                        <img src="../../assets/Images/Improved_Management_Focus.svg" alt="Improved Management Focus"
+                        <img src="../../assets/Images/improved Management Focus.svg" alt="Improved Management Focus"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Improved Management Focus</h3>
-                    <p class="text-gray-600">
-                        Delivering first-class professional service to Clients. Less bureaucracy and faster
-                        decision-making. Independence.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-4">Improved Management Focus</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Delivering first class professional service to Clients.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Less bureaucracy and faster decision.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Independence.</span>
+                        </li>
+                    </ul>
                 </div>
 
                 <!-- Operating Model -->
@@ -82,27 +111,42 @@
                     <div>
                         <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Operating Model</h3>
-                    <p class="text-gray-600">
-                        Management, sales, and delivery aligned at a local/market level. Privately held.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-4">Operating Model</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Privately held.</span>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
 
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 pt-20">
-                <!-- Digital Transformation -->
+                <!-- Focus on building strong customer relationships -->
                 <div
                     class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
                         <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Digital Transformation</h3>
-                    <p class="text-gray-600">
-                        Modernizing IT Infrastructure and System. Enhancing Customer Experience with AI and Machine
-                        Learning. Optimizing Operations through Automation.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-2">Focus on building strong customer relationships</h3>
+
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Privately held.</span>
+                        </li>
+                    </ul>
+
                 </div>
 
                 <!-- Target Market -->
@@ -111,11 +155,17 @@
                     <div>
                         <img src="../../assets/Images/target_market.svg" alt="Target Market" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Target Market</h3>
-                    <p class="text-gray-600">
-                        Companies or Institutions in Transition. Fast growing Entities or Large Corporate Groups.
-                        Start ups.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-2">Commitment to employee personal and professional growth</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Privately held.</span>
+                        </li>
+                    </ul>
                 </div>
 
                 <!-- Improved Management Focus -->
@@ -125,11 +175,17 @@
                         <img src="../../assets/Images/Improved_Management_Focus.svg" alt="Improved Management Focus"
                             class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Improved Management Focus</h3>
-                    <p class="text-gray-600">
-                        Delivering first-class professional service to Clients. Less bureaucracy and faster
-                        decision-making. Independence.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-2"> Better Customer Focus</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Privately held.</span>
+                        </li>
+                    </ul>
                 </div>
 
                 <!-- Operating Model -->
@@ -138,10 +194,17 @@
                     <div>
                         <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
                     </div>
-                    <h3 class="text-lg font-semibold mb-2">Operating Model</h3>
-                    <p class="text-gray-600">
-                        Management, sales, and delivery aligned at a local/market level. Privately held.
-                    </p>
+                    <h3 class="text-lg font-semibold mb-2">Excellence in management and leadership</h3>
+                    <ul class="text-left text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Privately held.</span>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
