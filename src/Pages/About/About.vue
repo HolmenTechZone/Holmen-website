@@ -72,7 +72,7 @@
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Fast growing Entities or Large Corporate Groups.</span>
+                            <span>Fast growing Entities or Large Corporate Groups</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
@@ -96,11 +96,11 @@
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Less bureaucracy and faster decision.</span>
+                            <span>Less bureaucracy promotes faster decision.</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Independence.</span>
+                            <span>Independence ensures objectiveness.</span>
                         </li>
                     </ul>
                 </div>
@@ -119,6 +119,10 @@
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
+                            <span>Market/Customer-focused model( vs a matrix or “corporate top-down model)”.</span>
+                        </li>
+                         <li class="flex items-start">
+                            <span class="mr-2">•</span>
                             <span>Privately held.</span>
                         </li>
                     </ul>
@@ -131,7 +135,7 @@
                 <div
                     class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
-                        <img src="../../assets/Images/Digital_Transformation.svg" alt="Digital Transformation"
+                        <img src="../../assets/Images/award.svg" alt="Digital Transformation"
                             class="w-12 h-12" />
                     </div>
                     <h3 class="text-lg font-semibold mb-2">Focus on building strong customer relationships</h3>
@@ -139,11 +143,16 @@
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                            <span>Provide superior customer service.</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Privately held.</span>
+                            <span>Customer feedback solicited on every assignment or project, with managerial follow-up.</span>
+                        </li>
+
+                         <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Team and individual accountability</span>
                         </li>
                     </ul>
 
@@ -159,11 +168,16 @@
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                            <span>Companies or Institutions in Transition</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Privately held.</span>
+                            <span>Fast growing Entities or Large Corporate Groups</span>
+                        </li>
+
+                          <li class="flex items-start">
+                            <span class="mr-2">•</span>
+                            <span>Start ups.</span>
                         </li>
                     </ul>
                 </div>
@@ -172,18 +186,18 @@
                 <div
                     class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
-                        <img src="../../assets/Images/Improved_Management_Focus.svg" alt="Improved Management Focus"
+                        <img src="../../assets/Images/focus.svg" alt="Improved Management Focus"
                             class="w-12 h-12" />
                     </div>
                     <h3 class="text-lg font-semibold mb-2"> Better Customer Focus</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                            <span>Business decisions made closet to the market/customer.</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Privately held.</span>
+                            <span>Offerings locally tailored to specific customer needs.</span>
                         </li>
                     </ul>
                 </div>
@@ -192,17 +206,17 @@
                 <div
                     class="flex flex-col items-center text-center bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 w-full max-w-sm mx-auto">
                     <div>
-                        <img src="../../assets/Images/Operating_Model.svg" alt="Operating Model" class="w-12 h-12" />
+                        <img src="../../assets/Images/user.svg" alt="Operating Model" class="w-12 h-12" />
                     </div>
                     <h3 class="text-lg font-semibold mb-2">Excellence in management and leadership</h3>
                     <ul class="text-left text-gray-600 space-y-2">
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Management, sales and delivery aligned at a local/market level.</span>
+                            <span>Accountability for results.</span>
                         </li>
                         <li class="flex items-start">
                             <span class="mr-2">•</span>
-                            <span>Privately held.</span>
+                            <span>Accountability to those supervised</span>
                         </li>
                     </ul>
                 </div>
